@@ -1,0 +1,3 @@
+/home/vin/Desktop/Database_Cpp/build/CMakeFiles/Database_Cpp.dir
+/home/vin/Desktop/Database_Cpp/build/CMakeFiles/edit_cache.dir
+/home/vin/Desktop/Database_Cpp/build/CMakeFiles/rebuild_cache.dir
